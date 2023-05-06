@@ -1,3 +1,5 @@
+package example5;
+
 public class Test_5
 {   int a = 10, b = 10;// IV / GLOBAL
     static int c = 5, d= 5;//SV/ GLOBal
